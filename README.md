@@ -1,82 +1,129 @@
 <h1 align="center">Meesam Imran</h1>
-<h3 align="center"> High-Performance Computing | Backend Engineer | Cloud Solutions Architect </h3>
-
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7F7&center=true&vCenter=true&width=500&lines=Optimizing+Performance+at+Scale;Innovating+Backend+Solutions;Cloud+Architect+for+Future+Systems" alt="Typing SVG" />
+  <a href="mailto:meesamimran1042@gmail.com">meesamimran1042@gmail.com</a> — 
+  <a href="https://www.linkedin.com/in/meesam-imran-9b2780235/">LinkedIn</a> — 
+  <a href="https://leetcode.com/u/Meesam1214/">LeetCode Profile</a> — 
+  0322-8556114
 </p>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/meesam-imran-9b2780235/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://twitter.com/MeesamImran"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>
-  <a href="mailto:meesamimran1042@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://meesam-12321.vercel.app"><img src="https://img.shields.io/badge/-Portfolio-333333?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio"/></a>
-</p>
+---
 
-## 🚀 About Me
+## 🎓 Education
 
-I am a highly motivated backend engineer and cloud solutions architect focused on optimizing performance, designing scalable systems, and leveraging cutting-edge technologies to build efficient and reliable solutions.
+**Bachelor of Science in Computer Science** (June 2025)  
+Namal University Mianwali, Lahore
 
-- 🔭 Currently working on: Cloud infrastructure automation, backend optimizations, and scalable architectures.
-- 🌱 Learning: Advanced cloud technologies and serverless computing.
-- 👯 Looking to collaborate on: Open-source cloud computing and backend development projects.
-- 💬 Ask me about: Cloud solutions, performance optimization, or backend architectures.
-- 📚 Publishing: Writing about backend technologies and cloud architecture practices.
+---
 
-## 💻 Tech Stack
+## 💼 Experience
 
-<p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
-  <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
-</p>
+### **Lead Backend Developer and DevOps Engineer**  
+**EZMDSolutions, YANA Medical Project** (August 2024 - Present)
+- Led a team of backend developers for YANA Medical, overseeing the design and implementation of scalable APIs and database architecture.
+- Designed and maintained CI/CD pipelines with Jenkins, Docker, and Kubernetes.
+- Optimized cloud infrastructure on AWS, GCP, and Azure, reducing operational costs and enhancing scalability.
+- Automated infrastructure provisioning using Terraform and Ansible.
 
-## 📊 GitHub Stats
+### **Research Assistant**  
+**Centre of AI and Big Data (CAID), Namal University** (February 2024 - August 2024)
+- Contributed to configuring Pakistan’s fastest supercomputer for AI and Big Data applications.
+- Developed edge computing solutions on RISC-V architecture to enhance performance and cost efficiency.
+- Built and deployed web applications utilizing JavaScript, HTML, and CSS on supercomputers and RISC-V clusters.
+
+### **Co-Founder and Technical Lead**  
+**Innoware Labs (Registered with SECP)** (December 2023 - Present)
+- Co-founded a software services company.
+- Led the development of multiple client projects, ensuring timely delivery and high-quality results.
+- Focused on expanding business capabilities through strategic planning and innovation.
+
+---
+
+## 🚀 Featured Projects
+
+### **Hotel Management Software with Auth & Stripe Integration**
+Technologies Used: Node.js, React, MongoDB, Stripe API  
+- Developed a full-fledged hotel management system with features such as booking, payments (Stripe integration), and user authentication.
+- Implemented real-time updates, booking status management, and a seamless payment process.
+
+### **Chat Application**
+Technologies Used: MongoDB, Express.js, React, Node.js  
+- Engineered a responsive chat platform with real-time user authentication, message delivery, and group chat features.
+- Utilized WebSocket for real-time communication and integrated a dynamic chatroom interface for users.
+
+### **YANA Medical Front-End & Backend**
+Technologies Used: React, Node.js, MongoDB, AWS  
+- Led the front-end and backend development for YANA Medical, focusing on a seamless UI for medical professionals and patient management.
+- Integrated cloud services (AWS) to optimize scalability, performance, and data security for medical records and scheduling systems.
+
+---
+
+## 🛠️ Skills
+
+### Technical Skills
+- **Programming Languages**: Python, Dart, JavaScript, HTML, CSS
+- **Frameworks and Libraries**: React Native, Node.js, Flutter, TensorFlow, PyTorch
+- **Web Development**: HTML, CSS, JavaScript
+- **Databases**: Firebase, SQL, MongoDB
+- **Tools and Technologies**: Docker, Kubernetes, Terraform, Jenkins, Ansible, Prometheus, Grafana
+- **Cloud Platforms**: AWS, GCP, Azure
+- **Machine Learning and Deep Learning**: TensorFlow, Keras, Scikit-learn
+- **High-Performance Computing**: RISC-V, Supercomputer Configuration
+
+### Soft Skills
+- Leadership and Team Management
+- Problem-solving
+- Effective Communication
+- Time Management
+- Critical Thinking
+
+---
+
+## 🏆 Achievements
+
+- **1st Prize: National Tech Expo** (May 2024)  
+  Recognized for designing a RISC-V based cluster with SIEM solutions, optimizing AI deployments.
+- **2nd Position: Inter-University Hackathon (Codex)** (May 2024)  
+  Delivered innovative solutions to complex algorithmic problems under competitive conditions.
+- **Best Project Award: Namal Tech Expo** (May 2024)  
+  Awarded for creating a high-performance, energy-efficient RISC-V cluster.
+
+---
+
+## 📚 Courses & Learning
+
+- **100 Days of ML and 100 Days of DL** (May 2024)  
+  Completed courses from CampusX, an online platform.
+- **LeetCode Problem Solving** (May 2024)  
+  Solved over 53 problems on LeetCode to enhance algorithm and problem-solving skills.
+- **Flutter Complete Course by Riwaan Ranawat** (May 2024)  
+  Understood mobile app development in depth by completing a certified course from Udemy.
+- **JavaScript Course by Jonas Schmedtmann**  
+  Studied JavaScript in depth from Udemy.
+
+---
+
+## 🏅 Competitive Programming
+
+- Seasoned Data Structures and Algorithms (DSA) expert with extensive remote teaching experience in DSA.
+- Solved over 75 problems on LeetCode to enhance algorithmic and problem-solving skills.
+- Achieved **2nd position** in the **Namal Codex Inter-University Hackathon**, showcasing exceptional problem-solving and programming skills.
+
+---
+
+## 💻 GitHub & LeetCode Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Meesam-12321&show_icons=true&count_private=true&hide=prs&theme=github_dark" alt="GitHub Stats" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Meesam-12321&theme=github-dark-blue" alt="GitHub Streak" width="48%" />
 </p>
 
-## 🏆 Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Meesam-12321&theme=darkhub&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies" />
-</p>
-
-## 🌟 Featured Projects
-
-### Projects Available:
-- High-Performance API Design
-- Cloud Infrastructure Automation
-- Scalable Backend Systems
+---
 
 ## 📈 Contribution Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Meesam-12321&theme=github-compact" alt="Contribution Graph" />
 </p>
-
-## 📚 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- [Optimizing Backend Systems for Performance at Scale](https://yourwebsite.com/blog/optimizing-backend-systems)
-- [The Future of Serverless Computing in Cloud Environments](https://yourwebsite.com/blog/serverless-computing)
-- [Scaling APIs and Microservices: Best Practices](https://yourwebsite.com/blog/scaling-apis)
-<!-- BLOG-POST-LIST:END -->
-
-## 🎓 Education & Certifications
-
-- **Master's in Computer Science** - Namal University (Expected 2025)
-- **AWS Certified Solutions Architect** - Amazon Web Services (2024)
-- **Machine Learning Specialization** - Andrew Ng (Coursera)
 
 ---
 
