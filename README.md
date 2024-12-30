@@ -1,258 +1,93 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Meesam Imran - CV</title>
-  <style>
-    * {
-      margin: 0;
-      padding: 0;
-      box-sizing: border-box;
-    }
+# 💼 Meesam Imran  
+[![Email](https://img.shields.io/badge/Email-meesamimran1042%40gmail.com-red?style=flat-square&logo=gmail&logoColor=white)](mailto:meesamimran1042@gmail.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-MeesamImran-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/meesam-imran-9b2780235/)  
+[![LeetCode](https://img.shields.io/badge/LeetCode-Meesam1214-orange?style=flat-square&logo=leetcode)](https://leetcode.com/u/Meesam1214/)  
 
-    body {
-      font-family: 'Arial', sans-serif;
-      background-color: #f4f7fc;
-      color: #333;
-      line-height: 1.6;
-      padding: 20px;
-    }
+---
 
-    h1 {
-      text-align: center;
-      font-size: 2.5em;
-      color: #4b4bff;
-      animation: fadeIn 2s ease-in-out;
-    }
+## 🚀 About Me  
+🎓 **Bachelor of Science in Computer Science** | Namal University, Mianwali | **Expected Graduation**: June 2025  
+💻 Passionate about software development, cloud computing, DevOps, and backend engineering.  
+🏆 Competitive programmer and tech enthusiast with a knack for creating innovative solutions.  
 
-    p {
-      text-align: center;
-      font-size: 1.1em;
-      color: #555;
-    }
+---
 
-    a {
-      color: #4b4bff;
-      text-decoration: none;
-      transition: color 0.3s ease;
-    }
+## 📊 GitHub Stats  
+![Meesam's GitHub stats](https://github-readme-stats.vercel.app/api?username=Meesam-12321&show_icons=true&theme=radical)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Meesam-12321&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-    a:hover {
-      color: #ff5733;
-    }
+---
 
-    section {
-      margin: 30px 0;
-    }
+## 🛠️ Skills  
+### **Languages**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)  
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
 
-    .section-title {
-      font-size: 1.8em;
-      color: #2d2d2d;
-      text-align: center;
-      margin-bottom: 10px;
-      text-transform: uppercase;
-      letter-spacing: 2px;
-      animation: slideInFromLeft 1.5s ease;
-    }
+### **Frameworks & Libraries**  
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)  
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)  
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)  
 
-    .content {
-      display: flex;
-      flex-direction: column;
-      gap: 15px;
-      max-width: 1000px;
-      margin: auto;
-      animation: fadeIn 2s ease-in-out;
-    }
+### **Tools & Platforms**  
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)  
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)  
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)  
 
-    .content div {
-      padding: 10px;
-      background-color: #fff;
-      border-radius: 8px;
-      box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
-      transition: transform 0.3s ease, box-shadow 0.3s ease;
-    }
+### **Other Skills**  
+- High-Performance Computing  
+- Infrastructure Automation (Terraform, Ansible)  
+- SQL & MongoDB  
+- RISC-V Cluster Configuration  
 
-    .content div:hover {
-      transform: scale(1.05);
-      box-shadow: 0 10px 15px rgba(0, 0, 0, 0.15);
-    }
+---
 
-    .content .title {
-      font-weight: bold;
-      color: #4b4bff;
-    }
+## 💼 Experience  
+### Lead Backend Developer and DevOps Engineer  
+**EZMDSolutions** | YANA Medical Project  
+*August 2024 - Present*  
+- Led a team of backend developers for the YANA Medical Project.  
+- Designed CI/CD pipelines using Jenkins, Docker, and Kubernetes.  
+- Optimized cloud infrastructure on AWS, GCP, and Azure for scalability.  
 
-    .content .description {
-      margin-top: 10px;
-      color: #777;
-    }
+### Research Assistant  
+**Centre of AI and Big Data (CAID), Namal University**  
+*February 2024 - August 2024*  
+- Configured Pakistan's fastest supercomputer for AI and Big Data applications.  
+- Developed edge computing solutions using RISC-V architecture.  
 
-    .content .list {
-      list-style: none;
-      margin-top: 10px;
-    }
+### Co-Founder and Technical Lead  
+**Innoware Labs (Registered with SECP)**  
+*December 2023 - Present*  
+- Co-founded and led development for multiple client projects.  
+- Focused on delivering high-quality, innovative solutions on time.  
 
-    .content .list li {
-      margin-bottom: 10px;
-    }
+---
 
-    .skills, .achievements {
-      display: grid;
-      grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
-      gap: 15px;
-      animation: fadeIn 2s ease-in-out;
-    }
+## 🌟 Projects  
+### **Hotel Management Software with Authentication & Stripe Integration**  
+- Developed a full-stack hotel management system with secure authentication and integrated payment gateways.  
 
-    .skills .skill, .achievements .achievement {
-      background-color: #f8f8f8;
-      padding: 15px;
-      border-radius: 8px;
-      text-align: center;
-      box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
-      transition: transform 0.3s ease;
-    }
+### **Chat Application**  
+- Built a responsive chat platform with WebSocket-based real-time communication.  
 
-    .skills .skill:hover, .achievements .achievement:hover {
-      transform: scale(1.05);
-      box-shadow: 0 10px 15px rgba(0, 0, 0, 0.15);
-    }
+### **YANA Medical Front-End & Backend**  
+- Led front-end and backend development for YANA Medical with cloud-based scalability.  
 
-    .footer {
-      text-align: center;
-      margin-top: 30px;
-      color: #777;
-    }
+---
 
-    @keyframes fadeIn {
-      0% { opacity: 0; }
-      100% { opacity: 1; }
-    }
+## 🏆 Achievements  
+- **1st Prize**: National Tech Expo (May 2024)  
+- **2nd Position**: Inter-University Hackathon (Codex, May 2024)  
+- **Best Project Award**: Namal Tech Expo (May 2024)  
 
-    @keyframes slideInFromLeft {
-      0% { transform: translateX(-100%); }
-      100% { transform: translateX(0); }
-    }
+---
 
-  </style>
-</head>
-<body>
+## 📚 Courses & Certifications  
+- **100 Days of ML and 100 Days of DL**: Completed CampusX courses.  
+- **Flutter Complete Course**: By Riwaan Ranawat (Udemy).  
+- **JavaScript Course**: By Jonas Schmedtmann (Udemy).  
 
-  <h1>Meesam Imran</h1>
-  <p>
-    <a href="mailto:meesamimran1042@gmail.com">meesamimran1042@gmail.com</a> — 
-    <a href="https://www.linkedin.com/in/meesam-imran-9b2780235/">LinkedIn</a> — 
-    <a href="https://leetcode.com/u/Meesam1214/">LeetCode Profile</a> — 
-    0322-8556114
-  </p>
+---
 
-  <section>
-    <h2 class="section-title">🎓 Education</h2>
-    <div class="content">
-      <div>
-        <p class="title">Bachelor of Science in Computer Science</p>
-        <p>June 2025 - Namal University Mianwali, Lahore</p>
-      </div>
-    </div>
-  </section>
-
-  <section>
-    <h2 class="section-title">💼 Experience</h2>
-    <div class="content">
-      <div>
-        <p class="title">Lead Backend Developer and DevOps Engineer</p>
-        <p>EZMDSolutions, YANA Medical Project (August 2024 - Present)</p>
-        <ul class="list">
-          <li>Led a team of backend developers for YANA Medical, overseeing the design and implementation of scalable APIs.</li>
-          <li>Optimized cloud infrastructure on AWS, GCP, and Azure.</li>
-          <li>Automated infrastructure provisioning using Terraform and Ansible.</li>
-        </ul>
-      </div>
-      <div>
-        <p class="title">Research Assistant</p>
-        <p>Centre of AI and Big Data (CAID), Namal University (February 2024 - August 2024)</p>
-        <ul class="list">
-          <li>Contributed to configuring Pakistan’s fastest supercomputer for AI applications.</li>
-          <li>Developed edge computing solutions on RISC-V architecture.</li>
-          <li>Built and deployed web apps using JavaScript, HTML, and CSS on supercomputers.</li>
-        </ul>
-      </div>
-      <div>
-        <p class="title">Co-Founder and Technical Lead</p>
-        <p>Innoware Labs (Registered with SECP) (December 2023 - Present)</p>
-        <ul class="list">
-          <li>Co-founded a software services company.</li>
-          <li>Led development of multiple client projects, ensuring timely delivery and high-quality results.</li>
-        </ul>
-      </div>
-    </div>
-  </section>
-
-  <section>
-    <h2 class="section-title">🚀 Featured Projects</h2>
-    <div class="content">
-      <div>
-        <p class="title">Hotel Management Software with Auth & Stripe Integration</p>
-        <ul class="list">
-          <li>Developed a full-fledged hotel management system with booking, payment (Stripe), and authentication.</li>
-        </ul>
-      </div>
-      <div>
-        <p class="title">Chat Application</p>
-        <ul class="list">
-          <li>Developed a responsive chat platform with real-time communication and dynamic chatrooms.</li>
-        </ul>
-      </div>
-      <div>
-        <p class="title">YANA Medical Front-End & Backend</p>
-        <ul class="list">
-          <li>Led front-end and backend development for YANA Medical with cloud-based solutions for scalability and security.</li>
-        </ul>
-      </div>
-    </div>
-  </section>
-
-  <section>
-    <h2 class="section-title">🛠️ Skills</h2>
-    <div class="skills">
-      <div class="skill">Python</div>
-      <div class="skill">JavaScript</div>
-      <div class="skill">React</div>
-      <div class="skill">Node.js</div>
-      <div class="skill">AWS</div>
-      <div class="skill">MongoDB</div>
-    </div>
-  </section>
-
-  <section>
-    <h2 class="section-title">🏆 Achievements</h2>
-    <div class="achievements">
-      <div class="achievement">1st Prize: National Tech Expo (May 2024)</div>
-      <div class="achievement">2nd Position: Inter-University Hackathon (Codex) (May 2024)</div>
-      <div class="achievement">Best Project Award: Namal Tech Expo (May 2024)</div>
-    </div>
-  </section>
-
-  <section>
-    <h2 class="section-title">📚 Courses & Learning</h2>
-    <div class="content">
-      <div>
-        <p class="title">100 Days of ML and 100 Days of DL</p>
-        <p>Completed courses from CampusX, an online platform.</p>
-      </div>
-      <div>
-        <p class="title">Flutter Complete Course</p>
-        <p>Udemy certified course by Riwaan Ranawat.</p>
-      </div>
-      <div>
-        <p class="title">JavaScript Course</p>
-        <p>Course by Jonas Schmedtmann, Udemy.</p>
-      </div>
-    </div>
-  </section>
-
-  <div class="footer">
-    <p>Created with 💻 by Meesam Imran</p>
-  </div>
-</body>
-</html>
+💡 *“Passionate about solving problems, building scalable systems, and contributing to the tech community.”*  
