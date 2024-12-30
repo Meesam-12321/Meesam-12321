@@ -1,7 +1,20 @@
-# 💼 Meesam Imran  
-[![Email](https://img.shields.io/badge/Email-meesamimran1042%40gmail.com-red?style=flat-square&logo=gmail&logoColor=white)](mailto:meesamimran1042@gmail.com)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-MeesamImran-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/meesam-imran-9b2780235/)  
-[![LeetCode](https://img.shields.io/badge/LeetCode-Meesam1214-orange?style=flat-square&logo=leetcode)](https://leetcode.com/u/Meesam1214/)  
+<h1 align="center">
+  <span style="display: inline-block; animation: fadeIn 3s; font-family: 'Courier New', Courier, monospace;">
+    💼 Meesam Imran
+  </span>
+</h1>
+
+<div align="center">
+  <a href="mailto:meesamimran1042@gmail.com">
+    <img src="https://img.shields.io/badge/Email-meesamimran1042%40gmail.com-red?style=flat-square&logo=gmail&logoColor=white" alt="Email Badge">
+  </a>
+  <a href="https://www.linkedin.com/in/meesam-imran-9b2780235/">
+    <img src="https://img.shields.io/badge/LinkedIn-MeesamImran-blue?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
+  </a>
+  <a href="https://leetcode.com/u/Meesam1214/">
+    <img src="https://img.shields.io/badge/LeetCode-Meesam1214-orange?style=flat-square&logo=leetcode" alt="LeetCode Badge">
+  </a>
+</div>
 
 ---
 
@@ -13,32 +26,31 @@
 ---
 
 ## 📊 GitHub Stats  
-![Meesam's GitHub stats](https://github-readme-stats.vercel.app/api?username=Meesam-12321&show_icons=true&theme=radical)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Meesam-12321&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Meesam-12321&show_icons=true&theme=radical" alt="Meesam's GitHub Stats">
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Meesam-12321&theme=radical" alt="GitHub Streak Stats">
+  <br>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Meesam-12321&theme=radical" alt="Profile Summary Card">
+</p>
 
 ---
 
 ## 🛠️ Skills  
-### **Languages**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)  
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
 
-### **Frameworks & Libraries**  
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)  
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)  
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)  
-
-### **Tools & Platforms**  
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)  
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)  
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)  
-
-### **Other Skills**  
-- High-Performance Computing  
-- Infrastructure Automation (Terraform, Ansible)  
-- SQL & MongoDB  
-- RISC-V Cluster Configuration  
+<div align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" alt="Dart">
+  <br>
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React Native">
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white" alt="Node.js">
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow">
+  <br>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" alt="AWS">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker">
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubernetes">
+</div>
 
 ---
 
@@ -65,21 +77,21 @@
 ---
 
 ## 🌟 Projects  
-### **Hotel Management Software with Authentication & Stripe Integration**  
-- Developed a full-stack hotel management system with secure authentication and integrated payment gateways.  
+- **Hotel Management Software with Authentication & Stripe Integration**  
+  Developed a full-stack hotel management system with secure authentication and integrated payment gateways.  
 
-### **Chat Application**  
-- Built a responsive chat platform with WebSocket-based real-time communication.  
+- **Chat Application**  
+  Built a responsive chat platform with WebSocket-based real-time communication.  
 
-### **YANA Medical Front-End & Backend**  
-- Led front-end and backend development for YANA Medical with cloud-based scalability.  
+- **YANA Medical Front-End & Backend**  
+  Led front-end and backend development for YANA Medical with cloud-based scalability.  
 
 ---
 
 ## 🏆 Achievements  
-- **1st Prize**: National Tech Expo (May 2024)  
-- **2nd Position**: Inter-University Hackathon (Codex, May 2024)  
-- **Best Project Award**: Namal Tech Expo (May 2024)  
+- 🥇 **1st Prize**: National Tech Expo (May 2024)  
+- 🥈 **2nd Position**: Inter-University Hackathon (Codex, May 2024)  
+- 🏅 **Best Project Award**: Namal Tech Expo (May 2024)  
 
 ---
 
@@ -90,4 +102,6 @@
 
 ---
 
+<p align="center">
 💡 *“Passionate about solving problems, building scalable systems, and contributing to the tech community.”*  
+</p>
