@@ -1,142 +1,258 @@
-<h1 align="center">Meesam Imran</h1>
-<p align="center">
-  <a href="mailto:meesamimran1042@gmail.com">meesamimran1042@gmail.com</a> — 
-  <a href="https://www.linkedin.com/in/meesam-imran-9b2780235/">LinkedIn</a> — 
-  <a href="https://leetcode.com/u/Meesam1214/">LeetCode Profile</a> — 
-  0322-8556114
-</p>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Meesam Imran - CV</title>
+  <style>
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+    }
 
----
+    body {
+      font-family: 'Arial', sans-serif;
+      background-color: #f4f7fc;
+      color: #333;
+      line-height: 1.6;
+      padding: 20px;
+    }
 
-## 🎓 Education
+    h1 {
+      text-align: center;
+      font-size: 2.5em;
+      color: #4b4bff;
+      animation: fadeIn 2s ease-in-out;
+    }
 
-**Bachelor of Science in Computer Science** (June 2025)  
-Namal University Mianwali, Lahore
+    p {
+      text-align: center;
+      font-size: 1.1em;
+      color: #555;
+    }
 
----
+    a {
+      color: #4b4bff;
+      text-decoration: none;
+      transition: color 0.3s ease;
+    }
 
-## 💼 Experience
+    a:hover {
+      color: #ff5733;
+    }
 
-### **Lead Backend Developer and DevOps Engineer**  
-**EZMDSolutions, YANA Medical Project** (August 2024 - Present)
-- Led a team of backend developers for YANA Medical, overseeing the design and implementation of scalable APIs and database architecture.
-- Designed and maintained CI/CD pipelines with Jenkins, Docker, and Kubernetes.
-- Optimized cloud infrastructure on AWS, GCP, and Azure, reducing operational costs and enhancing scalability.
-- Automated infrastructure provisioning using Terraform and Ansible.
+    section {
+      margin: 30px 0;
+    }
 
-### **Research Assistant**  
-**Centre of AI and Big Data (CAID), Namal University** (February 2024 - August 2024)
-- Contributed to configuring Pakistan’s fastest supercomputer for AI and Big Data applications.
-- Developed edge computing solutions on RISC-V architecture to enhance performance and cost efficiency.
-- Built and deployed web applications utilizing JavaScript, HTML, and CSS on supercomputers and RISC-V clusters.
+    .section-title {
+      font-size: 1.8em;
+      color: #2d2d2d;
+      text-align: center;
+      margin-bottom: 10px;
+      text-transform: uppercase;
+      letter-spacing: 2px;
+      animation: slideInFromLeft 1.5s ease;
+    }
 
-### **Co-Founder and Technical Lead**  
-**Innoware Labs (Registered with SECP)** (December 2023 - Present)
-- Co-founded a software services company.
-- Led the development of multiple client projects, ensuring timely delivery and high-quality results.
-- Focused on expanding business capabilities through strategic planning and innovation.
+    .content {
+      display: flex;
+      flex-direction: column;
+      gap: 15px;
+      max-width: 1000px;
+      margin: auto;
+      animation: fadeIn 2s ease-in-out;
+    }
 
----
+    .content div {
+      padding: 10px;
+      background-color: #fff;
+      border-radius: 8px;
+      box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+      transition: transform 0.3s ease, box-shadow 0.3s ease;
+    }
 
-## 🚀 Featured Projects
+    .content div:hover {
+      transform: scale(1.05);
+      box-shadow: 0 10px 15px rgba(0, 0, 0, 0.15);
+    }
 
-### **Hotel Management Software with Auth & Stripe Integration**
-Technologies Used: Node.js, React, MongoDB, Stripe API  
-- Developed a full-fledged hotel management system with features such as booking, payments (Stripe integration), and user authentication.
-- Implemented real-time updates, booking status management, and a seamless payment process.
+    .content .title {
+      font-weight: bold;
+      color: #4b4bff;
+    }
 
-### **Chat Application**
-Technologies Used: MongoDB, Express.js, React, Node.js  
-- Engineered a responsive chat platform with real-time user authentication, message delivery, and group chat features.
-- Utilized WebSocket for real-time communication and integrated a dynamic chatroom interface for users.
+    .content .description {
+      margin-top: 10px;
+      color: #777;
+    }
 
-### **YANA Medical Front-End & Backend**
-Technologies Used: React, Node.js, MongoDB, AWS  
-- Led the front-end and backend development for YANA Medical, focusing on a seamless UI for medical professionals and patient management.
-- Integrated cloud services (AWS) to optimize scalability, performance, and data security for medical records and scheduling systems.
+    .content .list {
+      list-style: none;
+      margin-top: 10px;
+    }
 
----
+    .content .list li {
+      margin-bottom: 10px;
+    }
 
-## 🛠️ Skills
+    .skills, .achievements {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+      gap: 15px;
+      animation: fadeIn 2s ease-in-out;
+    }
 
-### Technical Skills
-- **Programming Languages**: Python, Dart, JavaScript, HTML, CSS
-- **Frameworks and Libraries**: React Native, Node.js, Flutter, TensorFlow, PyTorch
-- **Web Development**: HTML, CSS, JavaScript
-- **Databases**: Firebase, SQL, MongoDB
-- **Tools and Technologies**: Docker, Kubernetes, Terraform, Jenkins, Ansible, Prometheus, Grafana
-- **Cloud Platforms**: AWS, GCP, Azure
-- **Machine Learning and Deep Learning**: TensorFlow, Keras, Scikit-learn
-- **High-Performance Computing**: RISC-V, Supercomputer Configuration
+    .skills .skill, .achievements .achievement {
+      background-color: #f8f8f8;
+      padding: 15px;
+      border-radius: 8px;
+      text-align: center;
+      box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+      transition: transform 0.3s ease;
+    }
 
-### Soft Skills
-- Leadership and Team Management
-- Problem-solving
-- Effective Communication
-- Time Management
-- Critical Thinking
+    .skills .skill:hover, .achievements .achievement:hover {
+      transform: scale(1.05);
+      box-shadow: 0 10px 15px rgba(0, 0, 0, 0.15);
+    }
 
----
+    .footer {
+      text-align: center;
+      margin-top: 30px;
+      color: #777;
+    }
 
-## 🏆 Achievements
+    @keyframes fadeIn {
+      0% { opacity: 0; }
+      100% { opacity: 1; }
+    }
 
-- **1st Prize: National Tech Expo** (May 2024)  
-  Recognized for designing a RISC-V based cluster with SIEM solutions, optimizing AI deployments.
-- **2nd Position: Inter-University Hackathon (Codex)** (May 2024)  
-  Delivered innovative solutions to complex algorithmic problems under competitive conditions.
-- **Best Project Award: Namal Tech Expo** (May 2024)  
-  Awarded for creating a high-performance, energy-efficient RISC-V cluster.
+    @keyframes slideInFromLeft {
+      0% { transform: translateX(-100%); }
+      100% { transform: translateX(0); }
+    }
 
----
+  </style>
+</head>
+<body>
 
-## 📚 Courses & Learning
+  <h1>Meesam Imran</h1>
+  <p>
+    <a href="mailto:meesamimran1042@gmail.com">meesamimran1042@gmail.com</a> — 
+    <a href="https://www.linkedin.com/in/meesam-imran-9b2780235/">LinkedIn</a> — 
+    <a href="https://leetcode.com/u/Meesam1214/">LeetCode Profile</a> — 
+    0322-8556114
+  </p>
 
-- **100 Days of ML and 100 Days of DL** (May 2024)  
-  Completed courses from CampusX, an online platform.
-- **LeetCode Problem Solving** (May 2024)  
-  Solved over 53 problems on LeetCode to enhance algorithm and problem-solving skills.
-- **Flutter Complete Course by Riwaan Ranawat** (May 2024)  
-  Understood mobile app development in depth by completing a certified course from Udemy.
-- **JavaScript Course by Jonas Schmedtmann**  
-  Studied JavaScript in depth from Udemy.
+  <section>
+    <h2 class="section-title">🎓 Education</h2>
+    <div class="content">
+      <div>
+        <p class="title">Bachelor of Science in Computer Science</p>
+        <p>June 2025 - Namal University Mianwali, Lahore</p>
+      </div>
+    </div>
+  </section>
 
----
+  <section>
+    <h2 class="section-title">💼 Experience</h2>
+    <div class="content">
+      <div>
+        <p class="title">Lead Backend Developer and DevOps Engineer</p>
+        <p>EZMDSolutions, YANA Medical Project (August 2024 - Present)</p>
+        <ul class="list">
+          <li>Led a team of backend developers for YANA Medical, overseeing the design and implementation of scalable APIs.</li>
+          <li>Optimized cloud infrastructure on AWS, GCP, and Azure.</li>
+          <li>Automated infrastructure provisioning using Terraform and Ansible.</li>
+        </ul>
+      </div>
+      <div>
+        <p class="title">Research Assistant</p>
+        <p>Centre of AI and Big Data (CAID), Namal University (February 2024 - August 2024)</p>
+        <ul class="list">
+          <li>Contributed to configuring Pakistan’s fastest supercomputer for AI applications.</li>
+          <li>Developed edge computing solutions on RISC-V architecture.</li>
+          <li>Built and deployed web apps using JavaScript, HTML, and CSS on supercomputers.</li>
+        </ul>
+      </div>
+      <div>
+        <p class="title">Co-Founder and Technical Lead</p>
+        <p>Innoware Labs (Registered with SECP) (December 2023 - Present)</p>
+        <ul class="list">
+          <li>Co-founded a software services company.</li>
+          <li>Led development of multiple client projects, ensuring timely delivery and high-quality results.</li>
+        </ul>
+      </div>
+    </div>
+  </section>
 
-## 🏅 Competitive Programming
+  <section>
+    <h2 class="section-title">🚀 Featured Projects</h2>
+    <div class="content">
+      <div>
+        <p class="title">Hotel Management Software with Auth & Stripe Integration</p>
+        <ul class="list">
+          <li>Developed a full-fledged hotel management system with booking, payment (Stripe), and authentication.</li>
+        </ul>
+      </div>
+      <div>
+        <p class="title">Chat Application</p>
+        <ul class="list">
+          <li>Developed a responsive chat platform with real-time communication and dynamic chatrooms.</li>
+        </ul>
+      </div>
+      <div>
+        <p class="title">YANA Medical Front-End & Backend</p>
+        <ul class="list">
+          <li>Led front-end and backend development for YANA Medical with cloud-based solutions for scalability and security.</li>
+        </ul>
+      </div>
+    </div>
+  </section>
 
-- Seasoned Data Structures and Algorithms (DSA) expert with extensive remote teaching experience in DSA.
-- Solved over 75 problems on LeetCode to enhance algorithmic and problem-solving skills.
-- Achieved **2nd position** in the **Namal Codex Inter-University Hackathon**, showcasing exceptional problem-solving and programming skills.
+  <section>
+    <h2 class="section-title">🛠️ Skills</h2>
+    <div class="skills">
+      <div class="skill">Python</div>
+      <div class="skill">JavaScript</div>
+      <div class="skill">React</div>
+      <div class="skill">Node.js</div>
+      <div class="skill">AWS</div>
+      <div class="skill">MongoDB</div>
+    </div>
+  </section>
 
----
+  <section>
+    <h2 class="section-title">🏆 Achievements</h2>
+    <div class="achievements">
+      <div class="achievement">1st Prize: National Tech Expo (May 2024)</div>
+      <div class="achievement">2nd Position: Inter-University Hackathon (Codex) (May 2024)</div>
+      <div class="achievement">Best Project Award: Namal Tech Expo (May 2024)</div>
+    </div>
+  </section>
 
-## 💻 GitHub & LeetCode Stats
+  <section>
+    <h2 class="section-title">📚 Courses & Learning</h2>
+    <div class="content">
+      <div>
+        <p class="title">100 Days of ML and 100 Days of DL</p>
+        <p>Completed courses from CampusX, an online platform.</p>
+      </div>
+      <div>
+        <p class="title">Flutter Complete Course</p>
+        <p>Udemy certified course by Riwaan Ranawat.</p>
+      </div>
+      <div>
+        <p class="title">JavaScript Course</p>
+        <p>Course by Jonas Schmedtmann, Udemy.</p>
+      </div>
+    </div>
+  </section>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Meesam-12321&show_icons=true&count_private=true&hide=prs&theme=github_dark" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Meesam-12321&theme=github-dark-blue" alt="GitHub Streak" width="48%" />
-</p>
-
----
-
-## 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Meesam-12321&theme=github-compact" alt="Contribution Graph" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Meesam-12321&color=blueviolet&style=for-the-badge&label=Profile+Views" alt="Profile Views" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/Meesam-12321?tab=followers">
-    <img src="https://img.shields.io/github/followers/Meesam-12321?style=for-the-badge&color=blue" alt="GitHub followers" />
-  </a>
-  <img src="https://img.shields.io/github/stars/Meesam-12321?style=for-the-badge&color=yellow" alt="GitHub User's stars" />
-  <a href="https://github.com/Meesam-12321/Meesam-12321">
-    <img src="https://img.shields.io/github/last-commit/Meesam-12321/Meesam-12321?style=for-the-badge&color=brightgreen" alt="Last Commit" />
-  </a>
-</p>
+  <div class="footer">
+    <p>Created with 💻 by Meesam Imran</p>
+  </div>
+</body>
+</html>
