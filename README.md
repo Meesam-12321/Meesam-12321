@@ -53,14 +53,10 @@ I am a highly motivated backend engineer and cloud solutions architect focused o
 
 ## 🌟 Featured Projects
 
-<p align="center">
-  <a href="https://github.com/Meesam-12321/High-Performance-API">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Meesam-12321&repo=High-Performance-API&theme=github_dark" alt="HighPerformanceAPI" />
-  </a>
-  <a href="https://github.com/Meesam-12321/Cloud-Infrastructure-Automation">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Meesam-12321&repo=Cloud-Infrastructure-Automation&theme=github_dark" alt="CloudInfrastructureAutomation" />
-  </a>
-</p>
+### Projects Available:
+- High-Performance API Design
+- Cloud Infrastructure Automation
+- Scalable Backend Systems
 
 ## 📈 Contribution Graph
 
